@@ -1,3 +1,4 @@
+/*Ana Luiza Lopes Penna; Walquiria Mafado*/
 function activateTab(pageId) {
     var tabCtrl = document.getElementById('tabCtrl');
     var pageToActivate = document.getElementById(pageId);
